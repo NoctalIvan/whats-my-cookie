@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "What's This Cookie, by Ariovis",
+  "description": "Discover what the cookies on your browser are here for.",
+  "version": "0.1.0",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": ["tabs", "cookies"],
+  "host_permissions": ["<all_urls>"],
+  "icons": {
+    "16": "assets/images/favicon.png",
+    "24": "assets/images/favicon.png",
+    "32": "assets/images/favicon.png",
+    "128": "assets/images/favicon.png"
+  }
+}
