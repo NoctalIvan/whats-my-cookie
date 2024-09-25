@@ -13,6 +13,10 @@ We strongly believe that privacy is a fundamental right. That's why we created t
 5. You're all set! You can now pin the extension to your browser's toolbar for easy access (click on the puzzle icon, then click on the pin icon next to the "What's this cookie" extension)
 6. Click on the extension on any page and... _Voilà_!
 
+## Update (for developers)
+
+If you wish to update the extension, simply download the latest version of the repository and replace the old files with the new ones. You can then reload the extension by clicking on the refresh icon in the extensions page (`chrome://extensions/`).
+
 ## Installation (google store)
 
 Not available yet.
