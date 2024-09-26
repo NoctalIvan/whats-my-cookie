@@ -105,8 +105,8 @@ const onSelectCookie = (evt) => {
         <div class="title text-gradient">Data Controller</div>
         <div class="data">
           ${cookie.dataController}
-          -
-          <a href="${cookie.gdpr}" target="_blank">See their data policy</a>
+          ${cookie.gdpr ? `-
+          <a href="${cookie.gdpr}" target="_blank">See their data policy</a>` : ''}
         </div>
 
         <div class="title text-gradient">Retention Period</div>
