@@ -9,7 +9,7 @@ We strongly believe that privacy is a fundamental right. That's why we created t
 1. Clone or download this repository (green button on the top right of this page)
 2. Open Google Chrome and go to `chrome://extensions/`
 3. Enable developer mode (top right corner)
-4. Click on "Load unpacked" and select the folder where you cloned/downloaded this repository (the folder containing the `manifest.json` file)
+4. Click on "Load unpacked" and select the folder where you cloned/downloaded this repository (the `src` folder containing the `manifest.json` file)
 5. You're all set! You can now pin the extension to your browser's toolbar for easy access (click on the puzzle icon, then click on the pin icon next to the "What's this cookie" extension)
 6. Click on the extension on any page and... _Voilà_!
 

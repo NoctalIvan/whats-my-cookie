@@ -9,9 +9,8 @@
   "permissions": ["tabs", "cookies"],
   "host_permissions": ["<all_urls>"],
   "icons": {
-    "16": "assets/images/favicon.png",
-    "24": "assets/images/favicon.png",
-    "32": "assets/images/favicon.png",
-    "128": "assets/images/favicon.png"
+    "16": "assets/images/logo_16x16.png",
+    "48": "assets/images/logo_48x48.png",
+    "128": "assets/images/logo_128x128.png"
   }
 }
