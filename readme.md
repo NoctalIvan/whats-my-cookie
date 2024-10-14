@@ -1,4 +1,4 @@
-# What's this cookie
+# What's my cookie
 
 By [Ariovis](https://ariovis.fr), your #1 cyber security business partner.
 
@@ -10,7 +10,7 @@ We strongly believe that privacy is a fundamental right. That's why we created t
 2. Open Google Chrome and go to `chrome://extensions/`
 3. Enable developer mode (top right corner)
 4. Click on "Load unpacked" and select the folder where you cloned/downloaded this repository (the `src` folder containing the `manifest.json` file)
-5. You're all set! You can now pin the extension to your browser's toolbar for easy access (click on the puzzle icon, then click on the pin icon next to the "What's this cookie" extension)
+5. You're all set! You can now pin the extension to your browser's toolbar for easy access (click on the puzzle icon, then click on the pin icon next to the "What's my cookie" extension)
 6. Click on the extension on any page and... _Voilà_!
 
 ## Update (for developers)

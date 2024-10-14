@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "What's This Cookie, by Ariovis",
+  "name": "What's my cookie, by Ariovis",
   "description": "Discover what the cookies on your browser are here for.",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "action": {
     "default_popup": "popup.html"
   },
