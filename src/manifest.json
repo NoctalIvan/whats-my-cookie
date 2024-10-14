@@ -2,11 +2,11 @@
   "manifest_version": 3,
   "name": "What's my cookie, by Ariovis",
   "description": "Discover what the cookies on your browser are here for.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "action": {
     "default_popup": "popup.html"
   },
-  "permissions": ["tabs", "cookies"],
+  "permissions": ["activeTab", "cookies"],
   "host_permissions": ["<all_urls>"],
   "icons": {
     "16": "assets/images/logo_16x16.png",
