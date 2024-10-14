@@ -1,0 +1,101 @@
+*** What's My Cookie by Ariovis: Simplifying Cookie Management for Enhanced Security and Compliance **
+
+What's My Cookie is a powerful tool developed by Ariovis, designed to identify and categorize website cookies into various types such as marketing, authentication, technical, and others. 
+
+Originally used internally by Ariovis developers working on Customer IAM (cIAM) and Identity and Access Management (IAM) projects, this application has now been made publicly available, reflecting Ariovis’ commitment to delivering practical, security-first solutions to a broader audience.
+
+
+*** Why "What's My Cookie"? *********
+
+
+In today’s data-driven world, understanding and managing website cookies is crucial for ensuring both cybersecurity and regulatory compliance. With the growing concerns around data privacy, especially under regulations like the GDPR (General Data Protection Regulation) and CCPA (California Consumer Privacy Act), it’s essential for businesses to maintain transparency about the cookies they use. Cookies—small files stored on users’ devices—can carry sensitive data, track user behavior, and facilitate authentication processes.
+
+What's My Cookie is designed to help organizations and developers better understand the nature of these cookies. This application makes it easy to quickly scan and categorize cookies according to their function, enabling teams to make informed decisions about data management and user privacy.
+
+
+*** Key Features of What's My Cookie ***
+
+
+1. Cookie Identification and Categorization 
+
+Quickly detects and categorizes website cookies into types such as:
+
+- Functional Cookies: Essential for website functionality.
+- Security Cookies: Protect user data and prevent fraudulent use of login credentials.
+- Analytics Cookies: Understand how users interact with the website.
+- Marketing Cookies: used for tracking and collecting visitor behavior and displaying targeted ads.
+- Personalization Cookies: Tailoring the user experience based on preferences.
+
+
+2. User-Friendly Interface
+
+The application features an intuitive interface designed for ease of use, catering to both technical and non-technical users. With just a few clicks, users can generate comprehensive cookie reports that break down each cookie’s purpose, storage duration, and associated domains.
+
+
+3. Security-First Approach
+
+Built by Ariovis' expert IAM and cIAM developers, What's My Cookie was initially a tool to ensure that projects met the highest standards of security and compliance. By making this application public, Ariovis extends its security-first mindset to any organization needing deeper visibility into its cookie usage.
+
+
+4. Compliance and Transparency
+
+The application helps businesses stay compliant with stringent data privacy laws like GDPR by offering transparency into which cookies are being used and why. This is crucial for informing users about cookie policies, ensuring clear consent, and maintaining trust.
+
+
+5. Customizable Cookie Management
+
+In addition to identifying cookies, the tool also provides recommendations for how to manage and store cookies effectively. This ensures that only necessary cookies are retained, helping businesses reduce potential risks associated with excess data collection.
+
+
+*** From Internal Tool to Public Utility ***
+
+
+Initially developed as an internal tool at Ariovis to assist developers in building secure and compliant customer identity systems, What's My Cookie was primarily used in-house for projects involving customer IAM and general IAM solutions. These internal projects demanded high levels of security, and the Ariovis team needed a reliable way to track and manage cookies across various platforms.
+
+By extending this tool to the public, Ariovis opens up its robust cookie management capabilities to other developers, security professionals, and businesses that care about identity security, data governance, and digital trust. Whether you’re implementing IAM solutions, building customer authentication systems, or simply need to comply with cookie regulations, What's My Cookie provides the insights you need to streamline cookie management.
+
+
+
+*** Use Cases for What's My Cookie ***
+
+
+1. Customer Identity and Access Management (cIAM) Projects
+
+In customer IAM projects, understanding and managing authentication cookies is critical. What's My Cookie enables developers to ensure that all cookies related to customer login, session management, and user tracking are secure and compliant with data protection laws.
+
+2. Regulatory Compliance
+
+With data privacy regulations tightening globally, businesses must maintain full transparency around their cookie practices. What's My Cookie helps organizations classify cookies, ensuring they only use those necessary for operations and that users are well-informed about the types of data being stored.
+
+3. Cybersecurity Audits
+
+Security teams can leverage What's My Cookie to audit websites and applications for potential security vulnerabilities stemming from cookies. The app identifies third-party tracking cookies, ensuring that only trusted domains have access to user data.
+
+4. Marketing Teams
+
+Marketing professionals can benefit from the application by gaining a better understanding of the cookies used to track user interactions and behaviors. By having a clear picture of which cookies are in play, marketing strategies can be optimized to improve data-driven decision-making while adhering to privacy guidelines.
+
+5.DevOps and IT Teams
+
+DevOps and IT teams, responsible for maintaining the technical infrastructure of websites and applications, can use What's My Cookie to identify cookies that are essential for site performance and stability. By differentiating between essential technical cookies and those that can be optimized, teams can fine-tune website functionality while enhancing security.
+
+
+*** Ariovis' Broader Security and Identity Management Offering ***
+
+
+As part of its broader suite of solutions, Ariovis specializes in helping organizations safeguard their digital identities and maintain secure, compliant access management systems. The release of What's My Cookie complements Ariovis’ other offerings in :
+
+  - Identity and Access Governance (IAG): Automating and streamlining identity management, ensuring that only authorized users have access to critical resources.
+  - Privileged Access Management (PAM): Securing access to privileged accounts and protecting sensitive systems from unauthorized use.
+  - Customer Identity and Access Management (cIAM): Providing seamless and secure customer experiences while ensuring that customer data is protected.
+  - Access Management (AM): Managing and enforcing policies around who can access what resources within an organization.
+
+By integrating What's My Cookie into their toolkit, businesses and developers can enhance their ability to manage cookies while leveraging Ariovis' expertise in cybersecurity and identity management.
+
+
+*** Conclusion: A Security-Driven Approach to Cookie Management ***
+
+
+In a world where data privacy and security are paramount, What's My Cookie by Ariovis stands out as a vital tool for any organization looking to enhance its cookie management practices. With a user-friendly interface, powerful categorization features, and a focus on security, this application enables businesses to stay compliant, build trust with users, and protect critical information.
+
+By making What's My Cookie available to the public, Ariovis continues its mission of blending security with business needs, delivering cutting-edge solutions that meet the highest standards of identity management, access control, and data protection.
