@@ -19,7 +19,7 @@ If you wish to update the extension, simply download the latest version of the r
 
 ## Installation (google store)
 
-Not available yet.
+[See in the google store](https://chromewebstore.google.com/detail/whats-my-cookie-by-ariovi/gjfcbpmppidgegicdkeophkmngoimdnm?authuser=0&hl=fr)
 
 ## About data sources
 
